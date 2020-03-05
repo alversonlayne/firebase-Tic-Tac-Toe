@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-tic-tac-toe": {
+      "hosting": {
+        "myapp": [
+          "fireship-tic-tac-toe"
+        ]
+      }
+    }
+  }
+}
